@@ -140,7 +140,7 @@ https://revanced.app/patches?pkg=com.google.android.youtube
 
 If you encounter any issues or have suggestions for improvement, feel free to:
 
-- Open an issue on [GitHub](https://github.com/your-repo).
+- Open an issue on [GitHub](https://github.com/ManabBala/fetch-app-details-on-revanced/issues).
 - Submit a pull request with your changes.
 
 ---
